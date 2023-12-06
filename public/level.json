@@ -1,0 +1,56 @@
+[
+     {
+          "_id": 1,
+          "money": 20,
+          "name": 1,
+          "deposited": "00",
+          "day": "200BD",
+          "description": " Monthly Earn 200*30==6000BD",
+          "img": "https://img.freepik.com/free-vector/money-bag-background-design_1270-41.jpg?w=826&t=st=1696358493~exp=1696359093~hmac=c7873424d6f94519f38682d65d76c512c70eedc2aabdb3a989299c2f20a3f3ca"
+     },
+     {
+          "_id": 2,
+          "money": 40,
+          "name": 2,
+          "deposited": "1000DB",
+          "day": "400BD",
+          "description": " Monthly Earn 400*30==12000BD",
+          "img": "https://i.ibb.co/37293sF/money-bag-gold-coins-money-bag-gold-coins-wealtch-concept-clipart-image-isolated-white-background-12.webp"
+     },
+     {
+          "_id": 3,
+          "money": 60,
+          "name": 3,
+          "deposited": "1500DB",
+          "day": "600BD",
+          "description": " Monthly Earn 600*30==18000BD",
+          "img": "https://i.ibb.co/cJ7Bf2h/gold-coin-bag-money-illustration-57293681.webp"
+     },
+     {
+          "_id": 4,
+          "money": 80,
+          "name": 4,
+          "deposited": "2000DB",
+          "day": "800BD",
+          "description": " Monthly Earn 800*30==24000BD",
+          "img": "https://thumbs.dreamstime.com/z/money-bag-15087247.jpg?w=576"
+     },
+     {
+          "_id": 5,
+          "money": 100,
+          "name": 5,
+          "deposited": "2500DB",
+          "day": "1000BD",
+          "description": " Monthly Earn 10000*30==30000BD",
+          "img": "https://i.ibb.co/DwH1k9Q/pile-and-bags-full-of-money-clipart-28387-1.jpg"
+     },
+     {
+          "_id": 6,
+          "money": 120,
+          "name": 6,
+          "deposited": "3000DB",
+          "day": "1200BD",
+          "description": " Monthly Earn 1200*30==36000BD",
+          "img": "https://i.ibb.co/7jbwzBB/pile-and-bags-full-of-money-clipart-28387.jpg"
+     }
+]

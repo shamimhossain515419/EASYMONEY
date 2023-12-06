@@ -1,0 +1,12 @@
+.Completed {
+     width: 100%;
+     background-image:
+     linear-gradient(to bottom, rgba(0, 0, 0, 0.729), rgba(0, 0, 0, 0.729)),
+     url('https://i.ibb.co/74jCgLD/money-2724241-1280-2.jpg');
+   
+     
+   background-size: calc(1);
+   background-attachment: fixed;
+   background-position: 100%;
+
+}

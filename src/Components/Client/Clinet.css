@@ -1,0 +1,10 @@
+.clientBackround {
+     width: 100%;
+     background-image:
+     linear-gradient(to bottom, rgba(0, 0, 0, 0.62), rgba(2, 2, 2, 0.62)),
+     url('https://i.ibb.co/Rg2m40D/divider.jpg');
+     background-repeat: no-repeat;
+   
+   
+
+}
